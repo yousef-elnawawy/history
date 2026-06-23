@@ -1,0 +1,6 @@
+{
+  "name": "فوازير التاريخ",
+  "description": "تطبيق فوازير وأسئلة تاريخية صعبة ومتنوعة لا تتكرر مع قسم خاص بمطور التطبيق",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
